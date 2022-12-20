@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+.Logo {
+    background-color: rgb(177, 208, 127);
+    width: 1050px;
+    margin: 25px 250px;
+    height: 120px;
+    padding: 20px 40px;
+    padding-left:2%;
+    border-left: 20px;
+}
+
+.NVG {
+    background-color: rgb(253, 225, 191);
+    text-align: center;
+    width: 1050px;
+    margin: 25px 250px;
+    min-height: 90px;
+    line-height: 50px;
+    padding: 20px 40px;
+
+}
+
+.HB{
+    background-color: rgb(190, 211, 251);
+    text-align: center;
+    width: 1050px;
+    margin: 25px 250px;
+    height: 200px;
+    padding: 20px 40px;
+}
+
+.SB{
+    background-color: rgb(228, 172, 242);
+    text-align: center;
+    width: 420px;
+    margin: 25px 700px;
+    height: 500px;
+    padding: 20px 40px;
+    float: left;
+    margin-left: 250px;
+    margin-top: -0px;
+}
+
+.BA{
+    background-color: lightpink;
+    text-align: center;
+    width: 590px;
+    margin: 25px 700px;
+    height: 500px;
+    padding: 20px 40px;
+    float: right;
+    margin-right: 220px;
+    margin-top: -525px;
+    
+}
+
+.F{
+    background-color: rgb(100, 237, 166);
+    text-align: center;
+    width: 1050px;
+    margin: 10px 250px 560px;
+    height: 50px;
+    padding: 10px 20px;
+    margin-top: 550px;
+    margin-bottom: 30px;
+}

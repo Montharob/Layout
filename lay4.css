@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+#head2 {
+    background-color: rgb(51, 51, 51);
+    margin: -30px;
+
+}
+
+.flex2 {
+    margin-top: 30px;
+    display: flex;
+}
+
+.flex3 {
+    display: flex;
+}
+
+.g1 {
+    flex: 2;
+    margin-right: 20px;
+
+}
+
+.g2 {
+    flex: 1;
+}
+
+.title {
+    background-color: rgb(85, 85, 85);
+    width: 160px;
+}
+
+.photo {
+    height: 630px;
+    background-color: rgb(126, 126, 126);
+    margin-top: -15px;
+}
+
+.detail_photo {
+    width: 160px;
+    height: 150px;
+    background-color: grey;
+    margin-top: 5px;
+}
+
+.pointer {
+    background-color: gray;
+    height: 5px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+}
+
+.photo2 {
+    /*อยู่ล่างซ้าย*/
+    height: 150px;
+    background-color: rgb(85, 85, 85);
+}
+
+/*อยู่ขวา*/
+.photo3 {
+    height: 300px;
+    background-color: rgb(85, 85, 85);
+    margin-top: 15px;
+}
+
+.title2 {
+    background-color: rgb(85, 85, 85);
+    height: 30px;
+    margin-bottom: 10px;
+}
+
+.display {
+    display: flex;
+    width: 400px;
+    height: 155px;
+}
+
+.detail_photo2 {
+    background-color: gray;
+    height: 100px;
+    width: 100px;
+    margin-right: 15px;
+}
+
+.detail {
+    text-align: center;
+}
